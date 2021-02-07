@@ -1,9 +1,10 @@
 # IT-Girls
-Hackathon Project for [2021 Black Wings Hacks Hackathon](https://rewritingthecode.org/black-wings-hacks/) <br/>
-Link to Hopin, [here](https://app.hopin.com/events/black-wings-hacks/reception) <br/>
+Hackathon Project for [2021 Black Wings Hacks Hackathon](https://rewritingthecode.org/black-wings-hacks/) 
+Link to Design Doc, [here](https://docs.google.com/document/d/1DvtAYOYHHfwwdQBbtSXSM33onZe4KgnpAp_C6F7lnzI/edit?usp=sharing)
 Link to Devpost, [here](https://blackwingshacks2021.devpost.com/)
 
-<br>
+# About Covid-19 Facts
+Your one-stop-shop for facts, research, and rapid updates on the covid-19 vaccination rollout, specificially geared towards communities of color. Built with React, Tailwind CSS, and Bootstrap based on Figma mockups.
 
 # Team Members
 **Shanice Smith**, _Game Design_ <br/>
